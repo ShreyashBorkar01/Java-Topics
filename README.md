@@ -4,6 +4,49 @@ A collection of Java programs, concepts, and notes covering **Core Java** and **
 
 ---
 
+# 📌 Repository Structure
+
+```text
+Java-Topics/
+│
+├── Operators/
+│   ├── ArithmeticOperators.java
+│   ├── RelationalOperators.java
+│   ├── LogicalOperators.java
+│   ├── BitwiseOperators.java
+│   └── AssignmentOperators.java
+│
+├── Conditions/
+│   ├── IfStatement.java
+│   ├── IfElse.java
+│   ├── IfElseIf.java
+│   └── Switch.java
+│
+├── Loops/
+│   ├── ForLoop.java
+│   ├── WhileLoop.java
+│   ├── DoWhileLoop.java
+│   ├── EnhancedForLoop.java
+│   ├── Break.java
+│   └── Continue.java
+│
+├── OOP/
+│   ├── ClassesAndObjects/
+│   ├── Constructors/
+│   ├── Polymorphism/
+│   ├── Inheritance/
+│   └── Encapsulation/
+│
+├── Packages/
+│
+└── README.md
+```
+
+---
+
+
+---
+
 ## 📚 Topics Covered
 
 ### 1. Operators in Java
@@ -434,45 +477,6 @@ public class Student {
 
 ---
 
-# 📌 Repository Structure
-
-```text
-Java-Topics/
-│
-├── Operators/
-│   ├── ArithmeticOperators.java
-│   ├── RelationalOperators.java
-│   ├── LogicalOperators.java
-│   ├── BitwiseOperators.java
-│   └── AssignmentOperators.java
-│
-├── Conditions/
-│   ├── IfStatement.java
-│   ├── IfElse.java
-│   ├── IfElseIf.java
-│   └── Switch.java
-│
-├── Loops/
-│   ├── ForLoop.java
-│   ├── WhileLoop.java
-│   ├── DoWhileLoop.java
-│   ├── EnhancedForLoop.java
-│   ├── Break.java
-│   └── Continue.java
-│
-├── OOP/
-│   ├── ClassesAndObjects/
-│   ├── Constructors/
-│   ├── Polymorphism/
-│   ├── Inheritance/
-│   └── Encapsulation/
-│
-├── Packages/
-│
-└── README.md
-```
-
----
 
 ## 🎯 Purpose of This Repository
 
@@ -492,8 +496,6 @@ This repository is used to:
 * **Java**
 * **JDK**
 * **VS Code**
-* **Git**
-* **GitHub**
 
 ---
 
