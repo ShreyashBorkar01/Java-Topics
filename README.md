@@ -1,6 +1,6 @@
 # Java Topics
 
-A collection of Java programs, concepts, and notes covering **Core Java** and **Object-Oriented Programming (OOP)** concepts. This repository is created for learning, practicing, and revising Java programming fundamentals.
+A collection of Java programs, concepts, and notes covering **Core Java** and **Object-Oriented Programming (OOP)** concepts. This repository is created for learning, practicing, and revising Java programming fundamentals. Code for below topics are stored in Hello.java file.
 
 ---
 
